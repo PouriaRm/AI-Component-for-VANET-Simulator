@@ -1,0 +1,28 @@
+Apr 09, 2018 4:45:33 PM global
+CONFIG: 0MB accelerated VRAM found.
+Apr 09, 2018 4:45:47 PM vanetsim.map.Map loadMap
+FINE: Loading map from Berlin_noTS.xml
+Apr 09, 2018 4:45:52 PM vanetsim.map.Map load
+FINE: Finished loading map.
+Apr 09, 2018 4:46:00 PM vanetsim.simulation.SimulationMaster startThread
+FINER: Simulation started.
+Apr 09, 2018 4:46:00 PM vanetsim.simulation.SimulationMaster run
+FINE: Preparing simulation with 8 threads. Detected 247 MB of free heap memory.
+Apr 09, 2018 4:46:00 PM Worker startX:0 startY:0 Worker constructor
+FINEST: Created worker thread with 8 regions.
+Apr 09, 2018 4:46:00 PM Worker startX:1 startY:1 Worker constructor
+FINEST: Created worker thread with 8 regions.
+Apr 09, 2018 4:46:00 PM Worker startX:2 startY:2 Worker constructor
+FINEST: Created worker thread with 8 regions.
+Apr 09, 2018 4:46:00 PM Worker startX:3 startY:3 Worker constructor
+FINEST: Created worker thread with 8 regions.
+Apr 09, 2018 4:46:00 PM Worker startX:4 startY:4 Worker constructor
+FINEST: Created worker thread with 7 regions.
+Apr 09, 2018 4:46:00 PM Worker startX:5 startY:4 Worker constructor
+FINEST: Created worker thread with 8 regions.
+Apr 09, 2018 4:46:00 PM Worker startX:6 startY:5 Worker constructor
+FINEST: Created worker thread with 8 regions.
+Apr 09, 2018 4:46:00 PM Worker startX:7 startY:6 Worker constructor
+FINEST: Created worker thread with 8 regions.
+Apr 09, 2018 4:46:15 PM vanetsim.simulation.SimulationMaster stopThread
+FINER: Simulation stopped.

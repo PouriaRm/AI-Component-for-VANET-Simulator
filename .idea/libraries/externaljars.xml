@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="externaljars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/externaljars/wstx-lgpl-3.2.6-sources.zip!/" />
+      <root url="jar://$PROJECT_DIR$/externaljars/staxmate-with-stax2-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/externaljars/substance.jar!/" />
+      <root url="jar://$PROJECT_DIR$/externaljars/staxmate-src-1.3.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/externaljars/wstx-lgpl-3.2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

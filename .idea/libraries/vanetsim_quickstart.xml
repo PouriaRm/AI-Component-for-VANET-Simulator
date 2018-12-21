@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="vanetsim_quickstart">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LogAnalyser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VanetSimStarter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
