@@ -11,5 +11,5 @@ Yes! We used parallelization techniques to reduce the time of processing. You ca
 ![](https://github.com/PouriaRm/AI-Component-for-VANET-Simulator/blob/master/Recorded%20Video.gif)
 
 Here, each machine simultaneously travels all the paths assigned to one gene.
-### Future Plans
+## Future Plans
 I'm thinking of improving the performance of this component as well as adding more algorithms to it. Another of my goals is to add machine learning approaches. If you have any questions or suggestions I would really love to hear.
