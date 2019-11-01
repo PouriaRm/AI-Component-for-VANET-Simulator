@@ -7,4 +7,9 @@ Clone the project first. Then follow the simulator installation instructions. [c
 Very simple! From the menu in the Scenarios section, choose which evolutionary algorithm you want. Then select how many vehicles you preferred. The simulator randomly considers the starting and ending points of each machine. You can also enter the value of the attributes for each algorithm. For example, in the Genetic algorithm, the penalty rate and a number of generations can be determined.
 ### Is it enough fast?
 Yes! We used parallelization techniques to reduce the time of processing. You can see an example of this parallelism in the simulation of Genetic algorithm below. 
+
 ![](https://github.com/PouriaRm/AI-Component-for-VANET-Simulator/blob/master/Recorded%20Video.gif)
+
+Here, each machine simultaneously travels all the paths assigned to one gene.
+### Future Plans
+I'm thinking of improving the performance of this component as well as adding more algorithms to it. Another of my goals is to add machine learning approaches. If you have any questions or suggestions I would really love to hear.
